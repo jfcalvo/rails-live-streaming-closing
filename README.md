@@ -1,5 +1,3 @@
-== README
-
 Rails example app to reproduce problem with not closing Live Streaming Server Events connection.
 
 Only execute `rails s` and open webpage with console open.
